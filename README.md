@@ -305,3 +305,19 @@ while cap.isOpened():         # while the webcam is opened
 
 cap.release()
  ``` 
+ 
+   ## Results:
+  
+  
+  ## Conclusion:
+In this project, we successfullty detected and tracked a hand and its landmarks ,using the mediapipe module, and were able to extract data in order to create an interactive hand gesture mini-app to draw simple sketches with different colors. Such applications would be extremely useful for futur AR projects.
+  
+  ### Contact:
+* Mail : mohamedamine.benabdeljelil@insat.u-carthage.tn -- mohamedaminebenjalil@yahoo.fr
+* Linked-in profile: https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/
+
+### Acknowledgements:
+* Google developers for making the [Mediapipe hand tracking module](https://google.github.io/mediapipe/solutions/hands)
+* OpenCV team for making the awesome [Opencv Library](https://opencv.org/)
+* [NumPy Team](https://numpy.org/gallery/team.html) for making the [Numpy Library](https://numpy.org/about/)
+  
