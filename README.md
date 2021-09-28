@@ -1,5 +1,8 @@
 # Virtual-Painter-Using-OpenCV-and-Hand-Detection
 
+![drawing](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection/blob/main/drawing.gif)
+
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -307,7 +310,8 @@ cap.release()
  ``` 
  
    ## Results:
-  
+  ![drawing](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection/blob/main/drawing.gif)
+
   
   ## Conclusion:
 In this project, we successfullty detected and tracked a hand and its landmarks ,using the mediapipe module, and were able to extract data in order to create an interactive hand gesture mini-app to draw simple sketches with different colors. Such applications would be extremely useful for futur AR projects.
