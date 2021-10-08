@@ -31,7 +31,7 @@
 
 The use of a physical device for human-computer interaction, such as a mouse or keyboard, hinders natural interface since it creates a significant barrier between the user and the machine.  
 However, new sorts of HCI solutions have been developed as a result of the rapid growth of technology and software.  
-In this project , I have made use of a robust hand and finger tracking system ,which can efficiently track both hand and hand landmarks features , in order to make a fun Ninja fruit-like game.
+In this project , I have made use of a robust hand and finger tracking system ,which can efficiently track both hand and hand landmarks features , in order to make a fun Virtual Painter.
 
 ## Software Requirements:
 
